@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "151075562725",
+    "project_id": "freecodecamp-course-app",
+    "storage_bucket": "freecodecamp-course-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151075562725:android:eda8ecab62771e813ea00c",
+        "android_client_info": {
+          "package_name": "com.denistomas.free_code_camp_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX9JuOs_MvM-ZocA9iLibmKluU2GNGFhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
